@@ -8,31 +8,33 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: JACOB RAJEEV - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
+- Member 2: ANAND BABU - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
+- Member 3: NIKHETH BINU - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
 
 ### Project Description
-[2-3 lines about what your project does]
+A moody dustbin that closes its lid when someone approches it, as its anxious to face it. One can compel it to open its lid using a website.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+A moody dustbin wont allow us to put garbage in it🥺
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Create a website and beg it comply.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Language - C++
+Libraries - ESP32 servo, wifi.h, Firebase esp client
+Tools - Adruino IDE
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+ESP 32
+SERVO
+ULTRASONIC SENSOR
+DUSTBIN
+BREADBOARD
+JUMPER CABLE
 
 ### Implementation
 For Software:
