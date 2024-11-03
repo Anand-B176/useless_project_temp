@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: 丨爪爪ㄖ尺ㄒ卂ㄥ
 
 
 ### Team Members
