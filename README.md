@@ -92,9 +92,9 @@ FINAL PRODUCT
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- JACOB RAJEEV : [Specific contributions]
-- ANAND BABU: [Specific contributions]
-- NIKHETH BINU: [Specific contributions]
+- JACOB RAJEEV : SOFTWARE SIDE DEVELOPMENTS and github repository
+- ANAND BABU: Hardware development and github repository
+- NIKHETH BINU: Hardware development and github repository
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
