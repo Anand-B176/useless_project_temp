@@ -60,13 +60,13 @@ For Software:
 
 # Diagrams
 ![graphviz](https://github.com/user-attachments/assets/fc77db6a-3760-4dd0-b1a4-211c4d34ff50)
-
+The code checks using the ultrasonic whether any person is present near the dustbin and if he is present there the lid of dustbin is ordered to be closed and once the person moves away the lid is opened again.
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![cdia](https://github.com/user-attachments/assets/c8897f8e-5362-47a5-804c-3cb2ab11dafe)
+
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
