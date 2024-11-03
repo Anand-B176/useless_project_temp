@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: 丨爪爪ㄖ尺ㄒ卂ㄥ
+### Team Name: IMMORTALS
 
 
 ### Team Members
@@ -45,6 +45,7 @@ For Software:
 [commands]
 
 ### Project Documentation
+
 For Software:
 
 # Screenshots (Add at least 3)
@@ -58,8 +59,8 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![graphviz](https://github.com/user-attachments/assets/fc77db6a-3760-4dd0-b1a4-211c4d34ff50)
+
 
 For Hardware:
 
@@ -89,9 +90,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- JACOB RAJEEV : [Specific contributions]
+- ANAND BABU: [Specific contributions]
+- NIKHETH BINU: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
