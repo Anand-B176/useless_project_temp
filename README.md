@@ -65,21 +65,23 @@ The code checks using the ultrasonic whether any person is present near the dust
 For Hardware:
 
 # Schematic & Circuit
+Circuit diagram
 ![cdia](https://github.com/user-attachments/assets/c8897f8e-5362-47a5-804c-3cb2ab11dafe)
 
+Schematic diagram
+![WhatsApp Image 2024-11-03 at 10 55 42 AM](https://github.com/user-attachments/assets/6d7af789-199f-46cc-8ad9-62c1f56f628b)
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+Components
+![COMP](https://github.com/user-attachments/assets/c748fc10-3546-43bc-aecb-35a1040b3b66)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+BUILD PROCESS
+![WhatsApp Image 2024-11-03 at 10 45 32 AM](https://github.com/user-attachments/assets/3298e559-7bfa-4352-b0c8-70d504a0d502)
 
-![Final](Add photo of final product here)
-*Explain the final build*
+FINAL PRODUCT
+![WhatsApp Image 2024-11-03 at 10 45 30 AM](https://github.com/user-attachments/assets/884bed83-1eb3-4860-8d71-fa8f87e18eb6)
+
 
 ### Project Demo
 # Video
