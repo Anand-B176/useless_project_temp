@@ -49,14 +49,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![arduino code](https://github.com/user-attachments/assets/2f8aba95-b010-41f0-8b8c-d2029311cfba)
+Arduino code fro the lid to close and open acording to the proximity of person near it.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![website code](https://github.com/user-attachments/assets/50690e0c-7d54-4a7b-b6ed-6e31d215ea81)
+HTML Website code to plead the dustbin to open the lid when a person is present near ir.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![websitte code](https://github.com/user-attachments/assets/9c8ce53b-f2e9-4235-8438-c999155ed237)
+Css website code to plead the dustbin.
 
 # Diagrams
 ![graphviz](https://github.com/user-attachments/assets/fc77db6a-3760-4dd0-b1a4-211c4d34ff50)
@@ -85,11 +85,7 @@ FINAL PRODUCT
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/drive/folders/1-82qVdSw7oaJXOx5OfGQwG51v36TR2Sa
 
 ## Team Contributions
 - JACOB RAJEEV : SOFTWARE SIDE DEVELOPMENTS and github repository
