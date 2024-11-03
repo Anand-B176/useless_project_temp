@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: JACOB RAJEEV - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
-- Member 2: ANAND BABU - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
-- Member 3: NIKHETH BINU - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
+- Team Lead:   JACOB RAJEEV - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
+- Member 2:    ANAND BABU   - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
+- Member 3:    NIKHETH BINU - SAINTGITS COLLEGE OF ENGINEERING, KOTTAYAM
 
 ### Project Description
 A moody dustbin that closes its lid when someone approches it, as its anxious to face it. One can compel it to open its lid using a website.
@@ -24,9 +24,9 @@ Create a website and beg it comply.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-   Language  - C++
-   Libraries - ESP32 servo, wifi.h, Firebase esp client
-   Tools     - Adruino IDE
+  ⭐ Language  - C++
+  ⭐ Libraries - ESP32 servo, wifi.h, Firebase esp client
+  ⭐ Tools     - Adruino IDE
 
 For Hardware:
 ESP 32,
