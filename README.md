@@ -24,16 +24,16 @@ Create a website and beg it comply.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-Language - C++
-Libraries - ESP32 servo, wifi.h, Firebase esp client
-Tools - Adruino IDE
+   Language  - C++
+   Libraries - ESP32 servo, wifi.h, Firebase esp client
+   Tools     - Adruino IDE
 
 For Hardware:
-ESP 32
-SERVO
-ULTRASONIC SENSOR
-DUSTBIN
-BREADBOARD
+ESP 32,
+SERVO,
+ULTRASONIC SENSOR,
+DUSTBIN,
+BREADBOARD,
 JUMPER CABLE
 
 ### Implementation
